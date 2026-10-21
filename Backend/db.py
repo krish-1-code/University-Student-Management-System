@@ -13,3 +13,4 @@ def get_connection():
         database=os.getenv("DB_NAME"),
         use_pure=True
     )
+
